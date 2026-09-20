@@ -20,19 +20,21 @@
 
 <div align="center">
 
-<a href="https://github.com/jamolkhon06">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jamolkhon06&show_icons=true&theme=tokyonight&hide_border=true&count_private=false&include_all_commits=false&rank_icon=github&custom_title=Jamolkhon's%20GitHub%20Stats" />
-</a>
+<img
+  height="180"
+  src="https://github-readme-stats.vercel.app/api?username=jamolkhon06&show_icons=true&theme=tokyonight&hide_border=true"
+/>
 
-<a href="https://github.com/jamolkhon06">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamolkhon06&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</a>
+<img
+  height="180"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamolkhon06&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+/>
 
-<br/>
+<br/><br/>
 
-<a href="https://github.com/jamolkhon06">
-  <img src="https://streak-stats.demolab.com?user=jamolkhon06&theme=tokyonight&hide_border=true" />
-</a>
+<img
+  src="https://streak-stats.demolab.com?user=jamolkhon06&theme=tokyonight&hide_border=true"
+/>
 
 </div>
 
