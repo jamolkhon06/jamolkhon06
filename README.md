@@ -20,8 +20,8 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=jamolkhon06&show_icons=true&theme=dark&hide_border=true"
-    alt="GitHub Analytics"
+    src="https://streak-stats.demolab.com/?user=jamolkhon06&theme=dark&hide_border=true"
+    alt="GitHub Streak Stats"
   />
 </p>
 
