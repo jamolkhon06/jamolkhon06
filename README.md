@@ -55,23 +55,9 @@
 <div align="center">
 
   <img
-    src="https://github-profile-trophy.vercel.app/?username=jamolkhon&theme=gruvbox&no-frame=true&no-bg=true&row=1&column=6"
+    src="https://github-profile-trophy.vercel.app/?username=jamolkhon06&theme=gruvbox&no-frame=true&no-bg=true&row=1&column=6"
     alt="GitHub Trophies"
     width="50%"
-  />
-
-</div>
-
----
-
-# ✍️ Random Dev Quote
-
-<div align="center">
-
-  <img
-    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox"
-    alt="Random Developer Quote"
-    width="90%"
   />
 
 </div>
