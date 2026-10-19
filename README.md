@@ -48,20 +48,6 @@
 
 </div>
 
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=jamolkhon06&theme=gruvbox&no-frame=true&no-bg=true&row=1&column=6"
-    alt="GitHub Trophies"
-    width="50%"
-  />
-
-</div>
-
 
 ---
 [![](https://visitcount.itsvg.in/api?id=jamolkhon06&icon=0&color=0)](https://visitcount.itsvg.in)
