@@ -25,7 +25,7 @@
   <img
     src="https://github-readme-stats.vercel.app/api?username=jamolkhon06&show_icons=true&theme=gruvbox&hide_border=true&include_all_commits=true&rank_icon=grade"
     alt="GitHub Stats"
-    width="90%"
+    width="55%"
   />
 
   <br/>
@@ -34,7 +34,7 @@
   <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=jamolkhon06&theme=gruvbox&hide_border=true"
     alt="GitHub Streak Stats"
-    width="90%"
+    width="55%"
   />
 
   <br/>
@@ -43,7 +43,7 @@
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamolkhon06&layout=compact&theme=gruvbox&hide_border=true&langs_count=8"
     alt="Most Used Languages"
-    width="90%"
+    width="40%"
   />
 
 </div>
@@ -57,7 +57,7 @@
   <img
     src="https://github-profile-trophy.vercel.app/?username=jamolkhon&theme=gruvbox&no-frame=true&no-bg=true&row=1&column=6"
     alt="GitHub Trophies"
-    width="100%"
+    width="50%"
   />
 
 </div>
