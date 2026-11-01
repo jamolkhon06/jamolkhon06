@@ -21,15 +21,6 @@
 
 <div align="center">
 
-  <!-- GitHub Stats -->
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=jamolkhon06&show_icons=true&theme=gruvbox&hide_border=true&include_all_commits=true&rank_icon=grade"
-    alt="GitHub Stats"
-    width="55%"
-  />
-
-  <br/>
-
   <!-- GitHub Contribution Streak -->
   <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=jamolkhon06&theme=gruvbox&hide_border=true"
